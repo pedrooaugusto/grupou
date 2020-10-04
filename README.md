@@ -1,6 +1,8 @@
 # APS Aplicaçãoes Distribuídas
 > POC de uma aplicação de chat em tempo real com suporte a múltiplas salas
 
+![Test Image](https://github.com/pedrooaugusto/grupou/blob/master/server.js/print.png)
+
 ### Como rodar ?
 ```
 yarn install // instalar as dependencias
