@@ -1,0 +1,49 @@
+[{
+    "id": 1,
+    "name": "Team 7",
+    "description": "The Legendary Konoha Three",
+    "participants": [
+        { "id": 1, "name": "Sasuke Uchiha", "job": "Chief of police" },
+        { "id": 2, "name": "Naruto Uzumaki", "job": "Hokage" },
+        { "id": 3, "name": "Sakura Haruno", "job": "Doctor" }
+    ],
+    "messages": [{
+        "id": "f9b327e70bbcf42494ccb28b2d98e00e",
+        "from": 3,
+        "text": "Sasuke, where are you at ?",
+        "date": 1601835218530
+    }, {
+        "id": "f9b327e70bbcf42494ccb28b2d98e01e",
+        "from": 2,
+        "text": "Sasuke is with me. We are making honey bread at my house right now.",
+        "date": 1601835219530
+    }]
+},
+{
+    "id": 2,
+    "name": "The Beatles",
+    "description": "The Greatest Band Of All Time",
+    "participants": [
+        { "id": 4, "name": "John Lennon", "job": "Singer" },
+        { "id": 5, "name": "Paul McCartney", "job": "Singer" },
+        { "id": 6, "name": "George Harrison", "job": "Bassist/Singer" },
+        { "id": 7, "name": "Ringo Starr", "job": "drummer" }
+    ],
+    "messages": [{
+        "id": "f9b327e70bbcf42494ccb28b2d98a00e",
+        "from": 6,
+        "text": "JOHN!! Yoko, has eaten my bloody biscuit! I gonna kill her!",
+        "date": 1601835917549
+    }, {
+        "id": "f9b327e70bbcf42494ccb28b2d96e01e",
+        "from": 4,
+        "text": "SO WHAT ?? Is just a biscuit, do you want me to buy another one ?",
+        "date": 1601835917549
+    }, {
+        "id": "f9b327e70bbcf42494ccb28b4d96e01e",
+        "from": 7,
+        "text": "Calm down guys, we are at the middle of a seasson, let's solve it later.",
+        "date": 1601835917549
+    }]
+}
+]
